@@ -16,12 +16,13 @@ Output: 0.25000
 Explanation: 2-2 = 1/22 = 1/4 = 0.25
 ```
 
-```python
-<h3>Constraints:</h3>
 
+<h3>Constraints:</h3>
+```python
 -100.0 < x < 100.0
 -231 <= n <= 231-1
 n is an integer.
+
 Either x is not zero or n > 0.
 -104 <= xn <= 104
 ```
