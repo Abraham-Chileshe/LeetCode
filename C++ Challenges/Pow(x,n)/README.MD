@@ -1,7 +1,7 @@
 <h3>Implement pow(x, n), which calculates x raised to the power n (i.e., xn).</h3>
 
  
-
+'''cpp
 <h4>Example 1:</h4>
 <b>Input: x</b> = 2.00000, <b>n</b> = 10
 Output: 1024.00000
@@ -15,7 +15,7 @@ Output: 9.26100
 Input: x = 2.00000, n = -2
 Output: 0.25000
 Explanation: 2-2 = 1/22 = 1/4 = 0.25
- 
+ '''
 
 <h3>Constraints:</h3>
 
